@@ -1,0 +1,13 @@
+com/hovhannes/leadagent/model/LeadProcessingResult.class
+com/hovhannes/leadagent/service/MockErpClient.class
+com/hovhannes/leadagent/LeadAgentApplication.class
+com/hovhannes/leadagent/service/OpenAiClient.class
+com/hovhannes/leadagent/model/LeadItem.class
+com/hovhannes/leadagent/service/LeadValidator.class
+com/hovhannes/leadagent/model/LeadValidationResult.class
+com/hovhannes/leadagent/service/LeadProcessingService.class
+com/hovhannes/leadagent/service/LeadExtractor.class
+com/hovhannes/leadagent/model/LeadValidationResult$Status.class
+com/hovhannes/leadagent/model/LeadExtractionResult.class
+com/hovhannes/leadagent/service/LeadClassifier.class
+com/hovhannes/leadagent/api/LeadDemoController.class
